@@ -20,19 +20,19 @@ class Home extends Component {
                 <div className="row">
                     <div className="col p-2">
                         <div style={{ display: "flex", justifyContent: "center", alignItems: "center" }} >      
-                            <img src={'../assets/images/restaurant1.jpg'} />
+                            <img src={'../assets/images/restaurant1.jpg'} alt="" />
                         </div>
                     </div>
                 </div>
                 <div className="row p-4">
                     <div style={{ display: "flex", justifyContent: "center", alignItems: "center" }} >  
                         <div className="col-sm-6 p-4">
-                            <img src={'../assets/images/freshbagels1.jpg'} />
+                            <img src={'../assets/images/freshbagels1.jpg'} alt="" />
                         </div>  
                     </div>
                     <div style={{ display: "flex", justifyContent: "center", alignItems: "center" }} >
                         <div className="col-sm-6 p-4">
-                            <img src={'./assets/images/bagelcoffee1.jpg'} />
+                            <img src={'./assets/images/bagelcoffee1.jpg'} alt="" />
                         </div>
                     </div>
                 </div>

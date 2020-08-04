@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import ReactBootstrap from 'react-bootstrap';
 import { Card} from 'react-bootstrap';
 
 class App extends Component {
